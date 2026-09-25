@@ -1,6 +1,6 @@
 # waverider
 
-![Alt text](Images-150x144.png "WaveRider Logo") 
+![Alt text](Images/waverider-150x144.png "WaveRider Logo") 
 Tidal sensor using Meshtastic to share data
 
 ![Alt text](SharRiver-X-640x247.png "Google Hybrid level view of the Shark River") 
